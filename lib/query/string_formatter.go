@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mithrandie/csvq/lib/option"
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/option"
+	"github.com/nodeselector/csvq/lib/value"
 )
 
 const EOF = -1

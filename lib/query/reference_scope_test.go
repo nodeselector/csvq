@@ -9,8 +9,8 @@ import (
 
 	"github.com/mithrandie/go-text"
 
-	"github.com/mithrandie/csvq/lib/parser"
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/parser"
+	"github.com/nodeselector/csvq/lib/value"
 )
 
 func TestFieldIndexCache_Get(t *testing.T) {

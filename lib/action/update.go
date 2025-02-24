@@ -11,11 +11,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/mithrandie/csvq/lib/query"
+	"github.com/nodeselector/csvq/lib/query"
 )
 
-const githubApiLatestReleaseURL = "https://api.github.com/repos/mithrandie/csvq/releases/latest"
-const githubApiLatestPreReleaseURL = "https://api.github.com/repos/mithrandie/csvq/releases?per_page=1"
+const githubApiLatestReleaseURL = "https://api.github.com/repos/nodeselector/csvq/releases/latest"
+const githubApiLatestPreReleaseURL = "https://api.github.com/repos/nodeselector/csvq/releases?per_page=1"
 const preReleaseIdentifier = "pr"
 
 type GithubRelease struct {

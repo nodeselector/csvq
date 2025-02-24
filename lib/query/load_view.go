@@ -12,11 +12,11 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/mithrandie/csvq/lib/file"
-	"github.com/mithrandie/csvq/lib/json"
-	"github.com/mithrandie/csvq/lib/option"
-	"github.com/mithrandie/csvq/lib/parser"
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/file"
+	"github.com/nodeselector/csvq/lib/json"
+	"github.com/nodeselector/csvq/lib/option"
+	"github.com/nodeselector/csvq/lib/parser"
+	"github.com/nodeselector/csvq/lib/value"
 
 	"github.com/mithrandie/go-text"
 	"github.com/mithrandie/go-text/csv"

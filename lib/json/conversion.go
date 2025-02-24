@@ -8,7 +8,7 @@ import (
 
 	"github.com/mithrandie/go-text/json"
 
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/value"
 	"github.com/mithrandie/ternary"
 )
 

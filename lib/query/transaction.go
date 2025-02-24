@@ -11,11 +11,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mithrandie/csvq/lib/doc"
-	"github.com/mithrandie/csvq/lib/file"
-	"github.com/mithrandie/csvq/lib/option"
-	"github.com/mithrandie/csvq/lib/parser"
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/doc"
+	"github.com/nodeselector/csvq/lib/file"
+	"github.com/nodeselector/csvq/lib/option"
+	"github.com/nodeselector/csvq/lib/parser"
+	"github.com/nodeselector/csvq/lib/value"
 
 	"github.com/mithrandie/go-text/color"
 	"github.com/mithrandie/go-text/fixedlen"

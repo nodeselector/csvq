@@ -6,7 +6,7 @@ import (
 
 	"github.com/mithrandie/ternary"
 
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/value"
 )
 
 var parseTests = []struct {

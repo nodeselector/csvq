@@ -4,7 +4,7 @@ import (
 	"errors"
 	"math"
 
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/value"
 )
 
 var errIntegerDevidedByZero = errors.New("integer devided by zero")

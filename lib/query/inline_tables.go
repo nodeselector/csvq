@@ -4,7 +4,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/mithrandie/csvq/lib/parser"
+	"github.com/nodeselector/csvq/lib/parser"
 )
 
 type InlineTableMap map[string]*View

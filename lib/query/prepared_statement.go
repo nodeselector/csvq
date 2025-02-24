@@ -3,8 +3,8 @@ package query
 import (
 	"strings"
 
-	"github.com/mithrandie/csvq/lib/option"
-	"github.com/mithrandie/csvq/lib/parser"
+	"github.com/nodeselector/csvq/lib/option"
+	"github.com/nodeselector/csvq/lib/parser"
 )
 
 type PreparedStatementMap struct {

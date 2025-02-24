@@ -3,7 +3,7 @@ package query
 import (
 	"strings"
 
-	"github.com/mithrandie/csvq/lib/parser"
+	"github.com/nodeselector/csvq/lib/parser"
 )
 
 func HasAggregateFunction(expr parser.QueryExpression, scope *ReferenceScope) (bool, error) {

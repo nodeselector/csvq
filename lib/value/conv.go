@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/mithrandie/csvq/lib/option"
+	"github.com/nodeselector/csvq/lib/option"
 
 	"github.com/mithrandie/ternary"
 )

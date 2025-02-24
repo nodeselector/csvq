@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/mithrandie/csvq/lib/option"
+	"github.com/nodeselector/csvq/lib/option"
 
 	"github.com/mithrandie/go-text/color"
 )

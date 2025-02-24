@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/value"
 )
 
 var calculateTests = []struct {

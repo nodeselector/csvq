@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/value"
 )
 
 //line lib/parser/parser.y:12

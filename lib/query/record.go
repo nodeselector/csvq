@@ -3,7 +3,7 @@ package query
 import (
 	"sync"
 
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/value"
 )
 
 type Cell []value.Primary

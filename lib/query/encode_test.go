@@ -5,8 +5,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/mithrandie/csvq/lib/option"
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/option"
+	"github.com/nodeselector/csvq/lib/value"
 
 	"github.com/mithrandie/go-text"
 	"github.com/mithrandie/go-text/json"

@@ -5,9 +5,9 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/mithrandie/csvq/lib/option"
-	"github.com/mithrandie/csvq/lib/parser"
-	"github.com/mithrandie/csvq/lib/query"
+	"github.com/nodeselector/csvq/lib/option"
+	"github.com/nodeselector/csvq/lib/parser"
+	"github.com/nodeselector/csvq/lib/query"
 )
 
 func Calc(ctx context.Context, proc *query.Processor, expr string) error {

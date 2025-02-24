@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/mithrandie/csvq/lib/cli"
+	"github.com/nodeselector/csvq/lib/cli"
 )
 
 func main() {

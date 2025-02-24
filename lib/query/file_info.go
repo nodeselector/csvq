@@ -8,9 +8,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/mithrandie/csvq/lib/file"
-	"github.com/mithrandie/csvq/lib/option"
-	"github.com/mithrandie/csvq/lib/parser"
+	"github.com/nodeselector/csvq/lib/file"
+	"github.com/nodeselector/csvq/lib/option"
+	"github.com/nodeselector/csvq/lib/parser"
 
 	"github.com/mithrandie/go-text"
 	"github.com/mithrandie/go-text/fixedlen"

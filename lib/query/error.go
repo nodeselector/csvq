@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/mithrandie/csvq/lib/file"
-	"github.com/mithrandie/csvq/lib/parser"
-	"github.com/mithrandie/csvq/lib/value"
+	"github.com/nodeselector/csvq/lib/file"
+	"github.com/nodeselector/csvq/lib/parser"
+	"github.com/nodeselector/csvq/lib/value"
 )
 
 const ExitMessage = "exit"
@@ -285,7 +285,7 @@ func NewFatalError(panicReport interface{}) error {
 	}
 
 	message := fmt.Sprintf("%v\n", panicReport) +
-		"An unexpected error has occurred. Please report this problem to: https://github.com/mithrandie/csvq/issues\n" +
+		"An unexpected error has occurred. Please report this problem to: https://github.com/nodeselector/csvq/issues\n" +
 		"\n" +
 		"Stack:\n" +
 		strings.Join(stacks, "\n")

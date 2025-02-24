@@ -1,4 +1,4 @@
-module github.com/mithrandie/csvq
+module github.com/nodeselector/csvq
 
 require (
 	github.com/mitchellh/go-homedir v1.1.0

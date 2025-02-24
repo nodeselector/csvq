@@ -6,8 +6,8 @@ import (
 	"context"
 	"io"
 
-	"github.com/mithrandie/csvq/lib/option"
-	"github.com/mithrandie/csvq/lib/query"
+	"github.com/nodeselector/csvq/lib/option"
+	"github.com/nodeselector/csvq/lib/query"
 
 	"golang.org/x/crypto/ssh/terminal"
 )

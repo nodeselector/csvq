@@ -7,11 +7,11 @@ import (
 	"os/signal"
 	"sort"
 
-	"github.com/mithrandie/csvq/lib/action"
-	"github.com/mithrandie/csvq/lib/file"
-	"github.com/mithrandie/csvq/lib/option"
-	"github.com/mithrandie/csvq/lib/parser"
-	"github.com/mithrandie/csvq/lib/query"
+	"github.com/nodeselector/csvq/lib/action"
+	"github.com/nodeselector/csvq/lib/file"
+	"github.com/nodeselector/csvq/lib/option"
+	"github.com/nodeselector/csvq/lib/parser"
+	"github.com/nodeselector/csvq/lib/query"
 
 	"github.com/urfave/cli/v2"
 )
